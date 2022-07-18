@@ -126,6 +126,9 @@ section{
 .galeria__fondo{
     border-radius: 10px;
     margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 /* Trend Emilia */
